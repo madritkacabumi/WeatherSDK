@@ -146,8 +146,11 @@ class WeatherViewController: UIViewController, WeatherForecastSDKDelegate {
         }
     }
 }
-
 ```
+## Example APP
+
+Run `Example/WeatherExampleApp/WeatherExampleApp.xcodeproj`
+
 ## Notes
 
 - **Possible improvement with navigation controller:** Make weather controller integrateable in a navigation controller instead of only the `present` option:
