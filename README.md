@@ -1,6 +1,6 @@
 # WeatherForecastSDK Integration Guide
 
-Welcome to the WeatherForecastSDK! This guide will help you integrate the SDK into your iOS project, initialize it, and display a weather forecast for a specific city.
+Welcome to the WeatherSDK! This guide will help you integrate the SDK into your iOS project, initialize it, and display a weather forecast for a specific city.
 
 ## Table of Contents
 
@@ -17,23 +17,18 @@ Welcome to the WeatherForecastSDK! This guide will help you integrate the SDK in
 
 - iOS 16.0+
 - Xcode 14.0+
-- Swift 5.5+
+- Swift 5.0+
 
 ## Installation
 
-You can integrate `WeatherForecastSDK` into your project using Swift Package Manager (SPM) or by manually adding the SDK files to your project.
+You can integrate `WeatherSDK` into your project using Swift Package Manager (SPM) or by manually adding the SDK files to your project.
 
 ### Using Swift Package Manager
 
 1. Open your project in Xcode.
 2. Go to `File > Add Packages`.
-3. Enter the repository URL of the WeatherForecastSDK and select your target.
+3. Enter the repository URL of the WeatherSDK and select your target.
 4. Choose the appropriate version, then click `Add Package`.
-
-### Manual Installation
-
-1. Download the `WeatherForecastSDK` source files.
-2. Drag the files into your Xcode project.
 
 ## Setup
 
